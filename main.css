@@ -1,0 +1,23 @@
+#logo {
+    width: 2500px;
+    height: 130px;
+    text-align: center;
+    margin-top: 180px;
+}
+
+#form {
+    width: 2500px;
+    text-align: center;
+}
+
+input {
+    width: 550px;
+}
+
+input #id {
+    width: 100px;
+}
+
+footer {
+    background-color: rgb(224, 215, 215);
+}
