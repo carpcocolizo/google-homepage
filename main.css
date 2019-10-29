@@ -1,6 +1,13 @@
+nav {
+    text-align: right;
+    font-size: 12px;
+    padding-right: 100px;
+    padding-top: 25px;
+}
+
 #logo {
     width: 2500px;
-    height: 130px;
+    height: 110px;
     text-align: center;
     margin-top: 180px;
 }
@@ -10,14 +17,42 @@
     text-align: center;
 }
 
-input {
+input, #bar {
     width: 550px;
 }
 
-input #id {
-    width: 100px;
+input {
+    width: 160px;
+    margin-top: 10px;
 }
 
 footer {
-    background-color: rgb(224, 215, 215);
+    background-color: rgb(228, 228, 228);
+    padding-left: 30px;
+}
+
+#bottomleft {
+    text-align: left;
+    font-size: 12px;
+}
+
+#bottomright {
+    text-align: right;
+    font-size: 12px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+
+#note {
+    height: 685px;
+    width: 2500px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+}
+
+#arg {
+    margin-bottom: 20px;
+    padding-top: 10px;
+    font-size: 13px;
 }
